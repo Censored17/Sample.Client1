@@ -1,4 +1,12 @@
+# Node modules
 node_modules/
+
+# Environment variables
 .env
+
+# Build directories
 bin/
 obj/
+
+# Visual Studio files
+.vs/
