@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6CFzGU/18KR499pcCOmyLiBydmAfS17x1m8eOPMLQ4s=",
+  "Source": "Sample.Server2",
+  "BasePath": "_content/Sample.Server2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

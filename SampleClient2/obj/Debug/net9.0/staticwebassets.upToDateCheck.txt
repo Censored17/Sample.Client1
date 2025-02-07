@@ -1,0 +1,7 @@
+C:\Users\ayson\source\repos\SampleClient2\SampleClient2\wwwroot\bootstrap\bootstrap.min.css.map
+C:\Users\ayson\source\repos\SampleClient2\SampleClient2\wwwroot\app.css
+C:\Users\ayson\source\repos\SampleClient2\SampleClient2\wwwroot\bootstrap\bootstrap.min.css
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
